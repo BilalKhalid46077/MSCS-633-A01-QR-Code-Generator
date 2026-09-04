@@ -80,15 +80,6 @@ qr_code.png
 
 The generated QR code can be scanned using a smartphone QR code scanner.
 
-## Project Files
-
-| File                   | Description             |
-| ---------------------- | ----------------------- |
-| `qr_code_generator.py` | Main Python source code |
-| `requirements.txt`     | Required Python package |
-| `qr_code.png`          | Generated QR code image |
-| `README.md`            | Project documentation   |
-
 ## Features
 
 * Accepts a URL from the user
